@@ -6,4 +6,3 @@ export const DEFAULT_PLAYER_INFO = {
  fullName: 'Stephen Curry',
  teamAbbreviation: 'GSW',
 };
-//
