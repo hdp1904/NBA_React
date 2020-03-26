@@ -1,3 +1,3 @@
 # NBA-React
 
-The webpage link is https://prod.dldoecq5q08si.amplifyapp.com/
+The webpage link is https://prod.d2ss694uzqvptq.amplifyapp.com/
