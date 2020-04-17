@@ -4,7 +4,7 @@
  
  .player {
   display: flex;
-  width: 790px;
+  width: 780px;
   margin: auto;
   border: 6px solid #ccc;
   box-shadow: 6px 12px 12px #888;
