@@ -36,7 +36,7 @@
   margin-right: auto;
  }
  
- @media (min-width: 78em) {
+ @media (min-width: 80em) {
   #shot-chart-container .shot-chart {
     margin: 5;
   }
