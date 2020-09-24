@@ -8,7 +8,7 @@ const RadioGroup = Radio.Group;
 
 export class DataViewContainer extends React.Component {
  state = {
-   minCount: 2,
+   minCount: 1,
    chartType: 'hexbin',
    displayToolTips: true,
  }
