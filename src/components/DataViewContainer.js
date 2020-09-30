@@ -38,7 +38,7 @@ export class DataViewContainer extends React.Component {
          {this.state.chartType === 'hexbin'?
            <CountSlider
              minCount={this.state.minCount}
-             onCountSliderChange={_.debounce(this.onCountSliderChange, 500)}
+             onCountSliderChange={_.debounce(this.onCountSliderChange, 400)}
            /> : null
           }
           <Row className="chart-type-radio">
