@@ -48,7 +48,7 @@ export class DataViewContainer extends React.Component {
                 <Radio value="scatter">Scatter</Radio>
               </RadioGroup>
             </Col>
-            <Col span={6}>
+            <Col span={5}>
               Tooltip:{' '}
               <Switch
                 checkedChildren="On"
