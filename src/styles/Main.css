@@ -7,7 +7,7 @@
   width: 680px;
   margin: auto;
   border: 6px solid #ccc;
-  box-shadow: 28px 20px 35px #888;
+  box-shadow: 28px 20px 3px #888;
   border-radius: 5px;
   overflow: hidden;
  }
