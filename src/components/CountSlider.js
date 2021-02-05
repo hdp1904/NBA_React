@@ -24,7 +24,7 @@ export class CountSlider extends React.Component {
          <InputNumber
            min={1}
            max={20}
-           style={{ marginLeft: 18 }}
+           style={{ marginLeft: 19 }}
            value={this.state.inputValue}
            onChange={this.onChange}
          />
