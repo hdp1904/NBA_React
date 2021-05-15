@@ -22,7 +22,7 @@ export class CountSlider extends React.Component {
        </Col>
        <Col span={4}>
          <InputNumber
-           min={1}
+           min={2}
            max={20}
            style={{ marginLeft: 12 }}
            value={this.state.inputValue}
