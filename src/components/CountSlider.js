@@ -20,9 +20,9 @@ export class CountSlider extends React.Component {
        <Col span={12}>
          <Slider min={1} max={25} onChange={this.onChange} value={this.state.inputValue} />
        </Col>
-       <Col span={4}>
+       <Col span={5}>
          <InputNumber
-           min={2}
+           min={1}
            max={20}
            style={{ marginLeft: 12 }}
            value={this.state.inputValue}
