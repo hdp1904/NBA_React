@@ -60,7 +60,7 @@ export class DataViewContainer extends React.Component {
           </Row>
         </div>
       </div>
-    )
+    );
   }
  }
  
