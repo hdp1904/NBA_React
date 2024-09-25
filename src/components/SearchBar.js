@@ -11,7 +11,7 @@ export class SearchBar extends React.Component {
  }
 
  handleSearch = (value) => {
-   console.log(value);
+  // console.log(value);
 
    this.setState({
        dataSource: !value ?
