@@ -17,7 +17,7 @@ export class ShotChart extends React.Component {
 
  componentDidUpdate() {
    nba.stats.shots({
-     PlayerID: this.props.playerId
+
    }).then((response) => {
      const final_shots = response.shot_Chart_Detail.map(shot => ({
        x: (shot.locX + 250) / 10,
