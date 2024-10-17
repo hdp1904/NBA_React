@@ -23,7 +23,7 @@ export class Main extends React.Component {
  }
 
  handleSelectPlayer = (playerName) => {
-  this.loadPlayerInfo(playerName);
+
  }
 
 
