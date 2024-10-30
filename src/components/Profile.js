@@ -17,7 +17,7 @@ export class Profile extends React.Component {
     <div className="profile">
       <div className="profile-entry player-name">{`${playerName}`}</div>
       <img
-
+        className="profile-pic"
         src={`${PROFILE_PIC_URL_PREFIX}/${playerId}.png`}
         alt="Profile"
       />
