@@ -7,7 +7,7 @@ const Option = AutoComplete.Option;
 
 export class SearchBar extends React.Component {
  state = {
-   dataSource: [],
+
  }
 
  handleSearch = (value) => {
