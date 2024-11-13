@@ -9,7 +9,7 @@ window.d3_hexbin = {hexbin : hexbin};
 
 export class ShotChart extends React.Component {
  static propTypes = {
-   playerId: PropTypes.number,
+
    minCount: PropTypes.number,
    chartType: PropTypes.string,
    displayTooltip: PropTypes.bool,
