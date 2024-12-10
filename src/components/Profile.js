@@ -9,7 +9,7 @@ export class Profile extends React.Component {
     teamName,
     playerName,
     height,
-    weight,
+
     playerId,
     pts, reb, ast, pie,
   } = this.props.playerInfo;
