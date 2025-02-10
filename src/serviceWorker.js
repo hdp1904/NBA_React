@@ -11,7 +11,7 @@ export function register(config) {
     const publicUrl = new URL(process.env.PUBLIC_URL, window.location.href);
     if (publicUrl.origin !== window.location.origin) {
    
-      return;
+    
     }
 
     window.addEventListener('load', () => {
