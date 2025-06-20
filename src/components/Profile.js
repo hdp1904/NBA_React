@@ -8,7 +8,7 @@ export class Profile extends React.Component {
     teamCity,
     teamName,
     playerName,
-    height,
+
     weight,
     playerId,
     pts, reb, ast, pie,
