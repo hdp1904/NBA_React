@@ -11,7 +11,7 @@ export class Main extends React.Component {
    playerInfo: DEFAULT_PLAYER_INFO,
  }
 
-
+ componentDidMount() {
    this.loadPlayerInfo(this.state.playerInfo.fullName);
  }
 
