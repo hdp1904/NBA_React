@@ -16,7 +16,7 @@ export class SearchBar extends React.Component {
    this.setState({
        dataSource: !value ?
           [] : nba.searchPlayers(value).map(player => ({
-                  fullName: player.fullName,
+                 
                   playerId: player.playerId,
       }))
 });
