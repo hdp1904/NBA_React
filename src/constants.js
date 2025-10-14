@@ -3,6 +3,6 @@ export const PROFILE_PIC_URL_PREFIX =
 export const TEAM_PIC_URL_PREFIX = 'http://stats.nba.com/media/img/teams/logos';
 export const DEFAULT_PLAYER_INFO = {
  playerId: 201949,
- fullName: 'Stephen Curry',
+ 
  teamAbbreviation: 'GSW',
 };
