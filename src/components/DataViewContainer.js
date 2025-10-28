@@ -14,7 +14,7 @@ export class DataViewContainer extends React.Component {
  }
 
  onCountSliderChange = (count) => {
-
+   this.setState({ minCount: Number(count) || 2 });
  }
 
  onChartTypeChange = (e) => {
